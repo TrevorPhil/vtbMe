@@ -1,7 +1,7 @@
 # To: LLZ ChildWolf
 # Author: 最上静香
 # API impletemented by https://vtbs.moe/about.
-# Version: v0.0.1
+# Version: v0.0.2
 
 import requests as r
 import pandas as pd
